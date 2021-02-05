@@ -28,7 +28,7 @@
   <project name="meta-imx" path="sources/meta-imx" remote="CAF" revision="a083ffbbc3f4d1c02b1542746784d7f641a75b60" upstream="zeus-5.4.24-2.1.0"/>
 	  
    <project name="meta-iwave" path="sources/meta-iwave" remote="iwave" revision="0cf8f15f33ba5588d2c384aa3664021ae755a895" upstream="zeus-5.4.24-2.1.0-iwg27m-q7-r1.0-rel0.1">
-    <linkfile dest="iwg27s-setup-release.sh" src="tools/iwg27s-setup-release.sh"/>
+    <linkfile dest="iwg27m-setup-release.sh" src="tools/iwg27m-setup-release.sh"/>
   </project>
 
   <project name="meta-openembedded" path="sources/meta-openembedded" remote="oe" revision="9e60d30669a2ad0598e9abf0cd15ee06b523986b"/>
