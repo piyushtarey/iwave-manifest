@@ -27,7 +27,7 @@
 
   <project name="meta-imx" path="sources/meta-imx" remote="CAF" revision="a083ffbbc3f4d1c02b1542746784d7f641a75b60" upstream="zeus-5.4.24-2.1.0"/>
 	  
-   <project name="meta-iwave" path="sources/meta-iwave" remote="iwave" revision="7bf1d6677f9b0caf1191e65e74127779f487ac07" upstream="zeus-5.4.24-2.1.0-iwg27m-q7-r1.0-rel0.1">
+   <project name="meta-iwave" path="sources/meta-iwave" remote="iwave" revision="505e494636d6dc3d0763001e2e4edcdddec97caa" upstream="zeus-5.4.24-2.1.0-iwg27m-q7-r1.0-rel0.1">
     <linkfile dest="iwg27m-setup-release.sh" src="tools/iwg27m-setup-release.sh"/>
   </project>
 
