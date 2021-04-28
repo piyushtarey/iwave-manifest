@@ -29,7 +29,7 @@
 
   <project name="meta-imx" path="sources/meta-imx" remote="CAF" revision="refs/tags/rel_imx_5.4.70_2.3.0" upstream="zeus-5.4.70-2.3.0">
   <project name="meta-iwave" path="sources/meta-iwave" remote="iwave" revision="36f6907bf88f3ac89bd59860243bafc75c7e7e22" upstream="zeus-5.4.70-2.3.0-iwg40m-r1.0-rel0.1">
-	<linkfile dest="iwg40m-setup-release.sh" src="tools/iwg40m-setup-release.sh"/>  
+	<linkfile dest="iwg40m-setup-release.sh" src="tools/iwg40m-setup-release.sh">  
 	<linkfile dest="README-IMXBSP" src="README"/>
   </project>
 
