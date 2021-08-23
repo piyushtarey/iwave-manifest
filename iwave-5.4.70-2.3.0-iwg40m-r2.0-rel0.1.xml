@@ -29,7 +29,7 @@
   <project name="meta-freescale-distro" path="sources/meta-freescale-distro" remote="community" revision="ca27d12e4964d1336e662bcc60184bbff526c857"/>
 
   <project name="meta-imx" path="sources/meta-imx" remote="CAF" revision="refs/tags/rel_imx_5.4.70_2.3.0" upstream="zeus-5.4.70-2.3.0"/>
-     <project name="meta-iwave" path="sources/meta-iwave" remote="iwave" revision="a8418a0e6aa37eda1c2ba47e14e5fe4dda43a6a9" upstream="zeus-5.4.70-2.3.0-iwg40m-r2.0-rel0.1">
+     <project name="meta-iwave" path="sources/meta-iwave" remote="iwave" revision="5a62286a76a6908f6e0c3913bf58b203b4db3890" upstream="zeus-5.4.70-2.3.0-iwg40m-r2.0-rel0.1">
     <linkfile dest="iwg40m-setup-release.sh" src="tools/iwg40m-setup-release.sh"/>
     <linkfile dest="README-IMXBSP" src="README"/>
   </project>
